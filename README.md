@@ -13,7 +13,7 @@ A ) Mettre la ville que vous désirez
 B ) et codez votre ID openweathermap
 Le fichier php est hébergé sur ovh et fonctionne sans problème.
 
-vous pouvez nommez le fichier comme vous le désirez il faudra changer l'adresse de lecture dans le code INO
+vous pouvez nommez le fichier comme vous le désirez il faudra changer l'adresse de lecture dans le code ARDUINO
 
 la carte ardu arduino est : 
 https://www.banggood.com/fr/LILYGO-TTGO-T-Display-ESP32-CP2104-WiFi-bluetooth-Module-1_14-Inch-LCD-Development-Board-p-1522925.html?rmmds=myorder&cur_warehouse=CN
