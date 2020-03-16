@@ -3,6 +3,8 @@ Permet d'afficher la météo sur le display incorporé
 ![images](https://github.com/Fumberto/esp32-ttgo-affichage-Meteo/blob/master/get%20ttgo%20Meteo.jpg)
 
 
+petite vidéo : https://youtu.be/EZTQUYzZGv0
+
 Pour obtenir un code ID gratuit il faut aller sur :
 https://openweathermap.org/
 
